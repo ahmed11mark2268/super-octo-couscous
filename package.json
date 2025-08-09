@@ -1,0 +1,17 @@
+{
+  "name": "4s-v14",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord.js": "^14.21.0",
+    "fs": "^0.0.1-security"
+  }
+}
